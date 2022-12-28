@@ -1,4 +1,4 @@
-]import random
+import random
 
 def computer_choice(i : int) -> int :
     return random.randint(0,i)
